@@ -1,0 +1,124 @@
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\appsettings.json
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.StaticWebAssets.xml
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.exe
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.deps.json
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.runtimeconfig.json
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.runtimeconfig.dev.json
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.dll
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\ref\Blasor_Serv.dll
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.pdb
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.Views.dll
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.Views.pdb
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.csproj.AssemblyReference.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.AssemblyInfoInputs.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.AssemblyInfo.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.csproj.CoreCompileInputs.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorComponent.input.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\Calculator.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\Math.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorComponent.output.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Blasor_Serv.dll
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.TagHelpers.input.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.TagHelpers.output.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorCoreGenerate.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Calculator.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Math.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorAssemblyInfo.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorAssemblyInfo.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\staticwebassets\Blasor_Serv.StaticWebAssets.Manifest.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\staticwebassets\Blasor_Serv.StaticWebAssets.xml
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\scopedcss\bundle\Blasor_Serv.styles.css
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\scopedcss\projectbundle\Blasor_Serv.bundle.scp.css
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorTargetAssemblyInfo.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorTargetAssemblyInfo.cs
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.Views.pdb
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.dll
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\ref\Blasor_Serv.dll
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.pdb
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.genruntimeconfig.cache
+C:\Users\mselvam\Source\Repos\DXC_Blazor_Traning\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.csproj.CopyComplete
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\appsettings.json
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.exe
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.StaticWebAssets.xml
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.deps.json
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.runtimeconfig.json
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.runtimeconfig.dev.json
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.dll
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\ref\Blasor_Serv.dll
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.pdb
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.Views.dll
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\bin\Debug\net5.0\Blasor_Serv.Views.pdb
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.csproj.AssemblyReference.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.AssemblyInfoInputs.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.AssemblyInfo.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.csproj.CoreCompileInputs.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorComponent.input.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\Calculator.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Pages\Math.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorComponent.output.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\RazorDeclaration\Blasor_Serv.dll
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.TagHelpers.input.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.TagHelpers.output.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorCoreGenerate.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Calculator.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Math.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorAssemblyInfo.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorAssemblyInfo.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\staticwebassets\Blasor_Serv.StaticWebAssets.Manifest.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\staticwebassets\Blasor_Serv.StaticWebAssets.xml
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\scopedcss\bundle\Blasor_Serv.styles.css
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\scopedcss\projectbundle\Blasor_Serv.bundle.scp.css
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorTargetAssemblyInfo.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.RazorTargetAssemblyInfo.cs
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.Views.pdb
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.dll
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\ref\Blasor_Serv.dll
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.pdb
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.genruntimeconfig.cache
+C:\Users\mselvam\OneDrive - DXC Production\Attachments\Megala\DotNet Core\Blazor\Blasor_Serv\obj\Debug\net5.0\Blasor_Serv.csproj.CopyComplete

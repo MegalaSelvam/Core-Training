@@ -1,0 +1,98 @@
+﻿@page "/Calculator"
+
+<h1>Calculator Task</h1>
+
+<hr/>
+<EditForm Model="@Cal">
+    <div class="row">
+        <div class="col-md-3">
+            <p>First Number</p>
+        </div>
+        <div class="col-md-4">
+            <input placeholder="Enter First Number" @bind="@num1" />
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-3">
+                <p>Second Number</p>
+            </div>
+            <div class="col-md-4">
+                <input placeholder="Enter Second Number" @bind="@num2" />
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-3">
+                <p>Result</p>
+            </div>
+            <div class="col-md-4">
+                <input readonly @bind="@Result" />
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-3">
+                <button @onclick="AddNumbers" class="btn btn-light"> Add (+) </button>
+            </div>
+            <div class="col-md-3">
+                <button @onclick="SubNumbers" class="btn btn-light"> Subtract (-) </button>
+            </div>
+            <div class="col-md-3">
+                <button @onclick="MulNumbers" class="btn btn-light"> Multiply (*) </button>
+            </div>
+            <div class="col-md-3">
+                <button @onclick="DivNumbers" class="btn btn-light"> Divide (/) </button>
+            </div>
+        </div>
+    </div>
+</EditForm>
+   
+    @code {
+        private Calobj Cal;
+
+        protected override void OnInitialized()
+        {
+            Cal = new Calobj();
+            base.OnInitialized();
+        }
+
+
+        string num1;
+        string num2;
+        string Result;
+
+
+        void AddNumbers()
+        {
+            Result = (Convert.ToDouble(num1) + Convert.ToDouble(num2)).ToString();
+        }
+
+        void SubNumbers()
+        {
+            Result = (Convert.ToDouble(num1) - Convert.ToDouble(num2)).ToString();
+        }
+        void MulNumbers()
+        {
+            Result = (Convert.ToDouble(num1) * Convert.ToDouble(num2)).ToString();
+        }
+        void DivNumbers()
+        {
+            if (Convert.ToDouble(num2) != 0)
+            {
+
+                Result = (Convert.ToDouble(num1) / Convert.ToDouble(num2)).ToString();
+            }
+            else
+            {
+                Result = "Cannot Divide by Zero";
+            }
+        }
+
+        public class Calobj
+        {
+            //public int  { get; set; }
+            //public int Y { get; set; }
+            //public int Res { get; set; }
+        }
+
+    }
